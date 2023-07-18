@@ -46,7 +46,7 @@ a {
 }
 .top-banner {
   background-color: #4fb3d4;
-  background-image: url('images/asset 32.png');
+  background-image: url('/images/asset 32.png');
   background-size: 300px;
 }
 .banner-text {
