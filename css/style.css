@@ -46,7 +46,6 @@ a {
 }
 .top-banner {
   background-color: #4fb3d4;
-  background-image: url('/images/asset 32.png');
   background-size: 300px;
 }
 .banner-text {
@@ -171,16 +170,6 @@ header {
     text-align: center;
 
 }
-.features-section{
-    background-image: url('images/asset 34.svg');
-    background-repeat: no-repeat;
-    background-position: center;
-    background-size: 750px;
-   
-}
-
-
-
 .big-feature-section{
   padding:120px var(--padding-inline-section) 0;
 }
@@ -243,7 +232,6 @@ header {
   position:relative;
   height:300px;
   background: black;
-  background: linear-gradient(rgb(0,0,0,0.1),rgb(0,0,0,0.8)),url('images/asset 36.jpeg');
   background-size:cover;
   transition:0.2s ease-out;
 }
@@ -259,18 +247,6 @@ header {
   margin-block:30px;
   flex-wrap: wrap;
 }
-.examples-card:nth-child(2){
-  background:linear-gradient(rgb(0,0,0,0.1),rgb(0,0,0,0.8)),url('images/asset 37.jpeg');
- 
- }
-.examples-card:nth-child(3){
- background:linear-gradient(rgb(0,0,0,0.1),rgb(0,0,0,0.8)),url('images/asset 38.jpeg');
-
-}
-.examples-card:nth-child(4){
-  background:linear-gradient(rgb(0,0,0,0.1),rgb(0,0,0,0.8)),url('images/asset 39.jpeg');
- 
- }
  .examples-card:hover{
   box-shadow:0 0 10px #888;
  }
